@@ -1,1 +1,1 @@
-# .github
+# Debri Development Team
